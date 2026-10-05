@@ -46,12 +46,6 @@ Hay **12 cubos de entorno** claramente agrupados en la jerarquía, además del c
 - `Assets/Editor/CantunaSceneBuilder.cs`: procedimiento con el que se creó y verificó la escena. También añade el menú **Herramientas → Cantuña → Verificar escena**.
 - `Docs/VistaJuego.png`: vista previa de la escena desde la cámara del jugador.
 
-## Demostración y entrega
-
-Graba un video de **3 a 5 minutos** con una vista general, las herramientas de Terrain, los 12 cubos, el recorrido del personaje y la historia de la piedra ausente. Sube ese video a una plataforma que permita compartirlo y entrega tanto su enlace como el de este repositorio.
-
-El repositorio debe conservar `Assets`, `Packages` y `ProjectSettings`, incluidos los archivos `.meta` generados por Unity. Las carpetas `Library`, `Temp`, `Logs` y `UserSettings` se regeneran en cada equipo y están excluidas por `.gitignore`.
-
 ## Referencia cultural
 
 La escena es una interpretación sencilla del pacto y del atrio inconcluso de la [leyenda de Cantuña](https://www.cancilleria.gob.ec/turquia/wp-content/uploads/sites/98/2021/09/Leyendas-Populares-Ecuador-vFinal.pdf). La silueta de dos torres se inspira en la [fachada de San Francisco de Quito](https://museosanfranciscodequito.com/arquitectura/); no busca reconstruir el monumento con precisión histórica.
